@@ -4,6 +4,16 @@
     <include_path>
       <path value="$PROJECT_DIR$/../../php/PEAR" />
       <path value="$PROJECT_DIR$/../../php" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/http" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/db" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/cookie" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/base64" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/auth" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
     </include_path>
   </component>
 </project>

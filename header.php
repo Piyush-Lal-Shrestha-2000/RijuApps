@@ -1,7 +1,7 @@
 <?php
     include "authentication.php";
 ?>
-<nav class="navbar navbar-expand-sm navbar-dark bg-primary">
+<nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
     <a class="navbar-brand" href="displayData.php">Untitled</a>
     <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId"
             aria-controls="collapsibleNavId"

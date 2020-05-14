@@ -1,5 +1,8 @@
 <?php
     include "authentication.php";
+    if ($auth->isLoggedIn()) {
+        header("location: displayData.php");
+    }
 ?>
 <!doctype html>
 <html lang="en">
